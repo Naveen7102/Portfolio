@@ -52,7 +52,7 @@ a:hover {
   color: #4e4e4e;
 }
 
-.box-shadow, .paralax-mf, .service-box, .work-box, .card-blog {
+.box-shadow, .paralax-mf, .intrest-box, .work-box, .card-blog {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
 }
 
@@ -839,9 +839,9 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Intrest
 --------------------------------------------------------------*/
-.service-box {
+.intrest-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
@@ -849,38 +849,38 @@ a:hover {
   text-align: center;
 }
 
-.service-box:hover .ico-circle {
+.intrest-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
   background-color: #0078ff;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
-.service-box .service-ico {
+.intrest-box .intrest-ico {
   margin-bottom: 1rem;
   color: #1e1e1e;
 }
 
-.service-box .ico-circle {
+.intrest-box .ico-circle {
   transition: all 500ms ease;
   display: inline-flex;
   align-items: center;
   justify-content: center;
 }
 
-.service-box .ico-circle i {
+.intrest-box .ico-circle i {
   line-height: 0;
   font-size: 40px;
 }
 
-.service-box .s-title {
+.intrest-box .s-title {
   font-size: 1.4rem;
   text-transform: uppercase;
   text-align: center;
   padding: .4rem 0;
 }
 
-.service-box .s-description {
+.intrest-box .s-description {
   color: #4e4e4e;
 }
 
