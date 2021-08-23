@@ -216,7 +216,7 @@ a:hover {
 }
 
 .socials .ico-circle {
-  height: 40px;
+  height: 35px;
   width: 40px;
   font-size: 1.2rem;
   border-radius: 50%;
@@ -838,6 +838,10 @@ a:hover {
   background-color: #0078ff;
 }
 
+.lead{
+  font-family: 'Nunito', sans-serif;
+}
+
 /*--------------------------------------------------------------
 # Intrest
 --------------------------------------------------------------*/
@@ -1079,6 +1083,10 @@ a:hover {
 
 .php-email-form input {
   padding: 10px 15px;
+}
+
+.grid-container{
+  display: flex;
 }
 
 .php-email-form textarea {
